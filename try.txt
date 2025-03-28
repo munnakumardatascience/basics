@@ -9,3 +9,6 @@ i want to show and update changes in local repo to remote repo.
 after changes in remote repo always run this code <git pull origin main> to update on local repo.
 otherwise, chnages will not show in local repo & it will create conflicts when we changes on local repo
 and want to push on remote repo.
+
+'doing some changes in local repo and try to update 
+changes on remote repo.'
