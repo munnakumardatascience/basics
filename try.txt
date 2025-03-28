@@ -1,1 +1,3 @@
 hello github!
+i changes on github ,but in local repo not modified
+and no any changes showing.
