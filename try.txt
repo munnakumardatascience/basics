@@ -4,3 +4,4 @@ and no any changes showing.
 i am trying to some changes in github repo to check is its tracking or showing modified signal on local repo
 <hello how are you>
 <i am fine>
+<want to show and update changes in local repo to remote repo >
