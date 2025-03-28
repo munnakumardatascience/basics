@@ -4,3 +4,6 @@ and no any changes showing.
 i am trying to some changes in github repo to check is its tracking or showing modified signal on local repo
 <hello how are you>
 <i am fine>
+after changes in remote repo always run this code <git pull origin main> to update on local repo.
+otherwise, chnages will not show in local repo & it will create conflicts when we changes on local repo
+and want to push on remote repo.
