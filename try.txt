@@ -1,14 +1,16 @@
-hello github!
+GIT & GITHUB NOTES :-
+=======================================================================================================
+• always run this code (git pull origin 'branch_name') after changes in code on Remote repo 
 
-i changes on github ,but in local repo not modified ,and no any changes showing.
+  git push origin 'branch_name'		send/update local repo(system) to remote repo(github)  
+  git pull origin 'branch_name'		show/update changes in remote repo(github) to local repo(system)
 
-i am trying to some changes in github repo to check is its tracking or showing modified signal on local repo
+* after changes in Remote repo:-
+	                                git pull origin main  
+* after changes in local repo:-
+	                                git status show modified
+	                                git add . or git add 'repo_name'
+	                                git commit -m 'message'
+	                                git push origin 'branch_name'
 
-i want to show and update changes in local repo to remote repo.
-
-after changes in remote repo always run this code <git pull origin main> to update on local repo.
-otherwise, chnages will not show in local repo & it will create conflicts when we changes on local repo
-and want to push on remote repo.
-
-'doing some changes in local repo and try to update 
-changes on remote repo.'
+==================================================================================================================
