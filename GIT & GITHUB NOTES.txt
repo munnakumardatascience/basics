@@ -1,5 +1,12 @@
 GIT & GITHUB NOTES :-
 =======================================================================================================
+
+• 1st make repo on github and don't make (readme.md,gidignore,licencese file) from github, we will do this from GIT
+  after then 
+  * mkdir folder_name (to make folder)
+  * intialize git folder (git init)
+ ------------------------------------------
+
 • always run this code (git pull origin 'branch_name') after changes in code on Remote repo 
 
   git push origin 'branch_name'		send/update local repo(system) to remote repo(github)  
